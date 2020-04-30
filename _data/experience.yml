@@ -1,10 +1,30 @@
 # Experience template
 - layout: left
-  company: Company name
+  company: Air Liquide
   link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
-  quote: >
-   Short description of the company (optional)
+  job_title: Research Associate in Optimization & Data Science
+  dates: Date Range (eg. March 2018 - present)
+  quote:
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    RA in Optimization & Computational Data Science Group (Air Liquide USA R&D Center)
+    2020 project -- Pricing Strategy & Recommendation for Air Liquide Canada (Potentially Europe)
+    PoC & Pilot the process of customized model-driven Pricing Recommendation on Oracle CPQ
+    Deploy the models supporting real-time and batch price recommendation and internal reports with AWS
+    2019 projects -- Customer Lifetime Value project for USA Airgas Marketing:
+    • Cost estimation approximating VRP using Machine Learning models
+    • Customer Churn Modeling using Bayesian Probabilistic Modelings
+    Deep Learning for CFD (Computational Fluid Dynamics):
+    • Implement Static flow approximation using CNN
+    • Explore Spatiotemporal Neural Network for dynamics fluids
+    2018 project -- Strategic Investment Decision-Making:
+    • Strategic Capacity Planning using Network Game Theory Model -- Solve a Network Nash Equilibrium problem with Mathematical Programming method (Non-linear Optimization)
+    • Use statistical model and machine learning for cost estimation, demand forecast and price elasticity modeling; Deploy Web Application for prototype using Python
+
+  company: AIG
+  link: Link to company (optional)
+  job_title: Research Assistant in Operations Research
+  dates: Date Range (eg. Semptember 2017 - December 2017)
+  quote:
+  description: | # this will include new lines to allow paragraphs
+    RA in AIG Science Group
+    • Designed optimal data-driven scheduling strategies; explored simulation-based optimization algorithm for operations scheduling and workflows; model validation with AnyLogic (Java-based)
