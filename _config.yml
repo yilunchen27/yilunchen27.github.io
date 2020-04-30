@@ -13,18 +13,18 @@ website: sproogen.github.io/modern-resume-theme
 darkmode: false
 
 # Social links
-twitter_username: yilun
-github_username: yilun
+linkedin_username: yilun-alice-chen
+github_username:
+twitter_username:
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 facebook_username:
 # flickr_username: jekyll
-instagram_username: yilun
-linkedin_username: yilun-alice-chen
+instagram_username:
 # xing_username: jekyll
-pinterest_username: yilun
-youtube_username: yilun
-googleplus_username: yilun
+pinterest_username:
+youtube_username:
+googleplus_username:
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
@@ -66,7 +66,7 @@ about_profile_image: assets/photo.png
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  Computer Languages: Python, R, SQL, C++, Java, Matlab
+  Computer Languages: Python, R, SQL, C++, Java, Matlab <\br>
   Big Data Skills: Spark, Hive, AWS, Google Cloud, Azure, Databricks, Docker, Git
   Relevant Packages: Scikit-learn, XGBoost, PySpark, Tensorflow, PyMC3, Flask, Bokeh
 
