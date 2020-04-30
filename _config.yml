@@ -46,9 +46,6 @@ googleplus_username:
 about_title: About Me
 about_profile_image: assets/photo.png
 about_content: | # this will include new lines to allow paragraphs
-    - Computer Languages: Python, R, SQL, C++, Java, Matlab
-    - Big Data Skills: Spark, Hive, AWS, Google Cloud, Azure, Databricks, Docker, Git
-    - Relevant Packages: Scikit-learn, XGBoost, PySpark, Tensorflow, PyMC3, Flask, Bokeh 
 
       I'm currently a Research Associate in Optimization and Data Science, with passion in large-scale machine learning models and scalable data-driven decision-making leveraged in cloud computing. My career goal is to combine the state-of-art in modeling with the science and engineering behind scalable machine learning system development and to solve industrial problem with higher-order of efficiency.
 
@@ -63,8 +60,11 @@ about_content: | # this will include new lines to allow paragraphs
 #     - <a href="google.com">Links</a>
 #     - Images
 
-# Projects Section
-# projects_title: Projects #(Use this to override about projects section title)
+# Skill Section
+about_title: Technical Skills
+    - Computer Languages: Python, R, SQL, C++, Java, Matlab
+    - Big Data Skills: Spark, Hive, AWS, Google Cloud, Azure, Databricks, Docker, Git
+    - Relevant Packages: Scikit-learn, XGBoost, PySpark, Tensorflow, PyMC3, Flask, Bokeh
 
 # Experience Section
 # experience_title: Experience #(Use this to override about experience section title)
