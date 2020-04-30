@@ -6,7 +6,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 name: Yilun Chen
 title: Machine Learning Researcher
 email: yilunc0127@gmail.com
-phone:
+# phone:
 website: sproogen.github.io/modern-resume-theme
 
 # Dark Mode (true/false/never)
