@@ -1,0 +1,4 @@
+# about template
+- layout: top-middle
+  description: | # this will include new lines to allow paragraphs
+    An exploratory project of Graph Embedding Algorithms used in NLP (Natural Language Processing) supporting large scale recommendations, from Amazon product Recommendation, Netflix Movie Recommendation to Youtube Video Recommendation.
