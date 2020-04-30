@@ -1,20 +1,20 @@
 # Education Template
-- layout: middle
+- layout: left
   name: Georgia institute of Technology
   dates: 2018 - 2020
   qualification: M.S. Computer Science
 
-- layout: middle
+- layout: left
   name: Columbia University
   dates: 2016 - 2017
   qualification: M.S. Operations Research
 
-- layout: middle
+- layout: left
   name: University of Michigan
   dates: 2014 - 2016
   qualification: B.S. Honor Mathematics, Statistics (Double Majors)
 
-- layout: middle
+- layout: left
   name: Sichuan University
   dates: 2012 - 2014
   qualification: B.S. Mathematics
