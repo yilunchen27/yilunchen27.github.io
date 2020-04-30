@@ -1,8 +1,8 @@
 # Project template
-- layout: top-middle
-  name: Graph Neural Network as Knowledge Graph Embedding in Natural Language Processing Domain
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote:
-  description: | # this will include new lines to allow paragraphs
-    An exploratory project of Graph Embedding Algorithms used in NLP (Natural Language Processing) supporting large scale recommendations, from Amazon product Recommendation, Netflix Movie Recommendation to Youtube Video Recommendation.
+# - layout: top-middle
+#   name: Graph Neural Network as Knowledge Graph Embedding in Natural Language Processing Domain
+#   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+#   quote:
+#   description: | # this will include new lines to allow paragraphs
+#     An exploratory project of Graph Embedding Algorithms used in NLP (Natural Language Processing) supporting large scale recommendations, from Amazon product Recommendation, Netflix Movie Recommendation to Youtube Video Recommendation.
