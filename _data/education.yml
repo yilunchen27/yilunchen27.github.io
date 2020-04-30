@@ -3,18 +3,31 @@
   name: Georgia institute of Technology
   dates: 2018 - 2020
   qualification: M.S. Computer Science
+  description: | # this will include new lines to allow paragraphs
+  Computer Science Master with Machine Learning Track <\br>
+  Lifelong learning with concentration in Machine Learning modeling & System, Algorithm and Software Development & Architecture
 
 - layout: left
   name: Columbia University
   dates: 2016 - 2017
   qualification: M.S. Operations Research
+  description: | # this will include new lines to allow paragraphs
+  With concentration on Data Science and Big Data Analytics <\br>
+  Completed courses in Machine Learning, Neural Network & Deep Learning, Bayesian Stats, Time Series Analysis, Multivariate Stats, Analysis of Algorithm, Optimization, Stochastic Process, Simulation, Database Design (SQL), Digital Operation Models
 
 - layout: left
   name: University of Michigan
   dates: 2014 - 2016
   qualification: B.S. Honor Mathematics, Statistics (Double Majors)
+  description: | # this will include new lines to allow paragraphs
+    Concentrated on Pure Math and Applied Math with application in statistical models
+
+    Completed course in Real Analysis, Probability Theory, Combinatorial Algebra, Numerical Method, Data Mining, Statistical Inference, Applied Statistics, etc.
+    Completed fundamental courses in Computer Science: Introductory to Programming Language(C++), Programming and Introductory Data Structures(C++), Data Structure and Algorithm(C++)
 
 - layout: left
   name: Sichuan University
   dates: 2012 - 2014
   qualification: B.S. Mathematics
+  description: | # this will include new lines to allow paragraphs
+    National College Students Mathematical Competition - Third Price in Sichuan Province （Mathematics professions group）
