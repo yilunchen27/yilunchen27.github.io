@@ -66,9 +66,9 @@ about_profile_image: assets/photo.png
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  Computer Languages: Python, R, SQL, C++, Java, Matlab <\br>
-  Big Data Skills: Spark, Hive, AWS, Google Cloud, Azure, Databricks, Docker, Git
-  Relevant Packages: Scikit-learn, XGBoost, PySpark, Tensorflow, PyMC3, Flask, Bokeh
+  Computer Languages: Python, R, SQL, C++, Java, Matlab |+
+  Big Data Skills: Spark, Hive, AWS, Google Cloud, Azure, Databricks, Docker, Git |+
+  Relevant Packages: Scikit-learn, XGBoost, PySpark, Tensorflow, PyMC3, Flask, Bokeh |+
 
   I'm currently a Research Associate in Optimization and Data Science, with passion in large-scale machine learning models and scalable data-driven decision-making leveraged in cloud computing. My career goal is to combine the state-of-art in modeling with the science and engineering behind scalable machine learning system development and to solve industrial problem with higher-order of efficiency.
 
