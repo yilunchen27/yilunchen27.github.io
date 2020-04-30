@@ -1,36 +1,20 @@
 # Education Template
 - layout: left
   name: Georgia institute of Technology
-  dates: Date Range (eg. 2018 - 2020)
+  dates: 2018 - 2020
   qualification: M.S. Computer Science
-  quote: >
-    Short institution or course description (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description of qualification
 
-- layout: left
+- layout: lefttop
   name: Columbia University
-  dates: Date Range (eg. 2016 - 2017)
+  dates: 2016 - 2017
   qualification: M.S. Operations Research
-  quote: >
-    Short institution or course description (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description of qualification
 
 - layout: left
   name: University of Michigan
-  dates: Date Range (eg. 2014 - 2016)
+  dates: 2014 - 2016
   qualification: B.S. Honor Mathematics, Statistics (Double Majors)
-  quote: >
-    Short institution or course description (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description of qualification
 
 - layout: left
   name: Sichuan University
-  dates: Date Range (eg. 2012 - 2014)
+  dates: 2012 - 2014
   qualification: B.S. Mathematics
-  quote: >
-    Short institution or course description (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description of qualification

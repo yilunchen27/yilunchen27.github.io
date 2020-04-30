@@ -1,10 +1,8 @@
 # Experience template
 - layout: left
   company: Air Liquide
-  link: Link to company (optional)
   job_title: Research Associate in Optimization & Data Science
-  dates: Date Range (eg. March 2018 - present)
-  quote:
+  dates: March 2018 - present
   description: | # this will include new lines to allow paragraphs
     RA in Optimization & Computational Data Science Group (Air Liquide USA R&D Center)
     2020 project -- Pricing Strategy & Recommendation for Air Liquide Canada (Potentially Europe)
@@ -22,10 +20,8 @@
 
 - layout: left
   company: AIG
-  link: Link to company (optional)
   job_title: Research Assistant in Operations Research
-  dates: Date Range (eg. Semptember 2017 - December 2017)
-  quote:
+  dates: Semptember 2017 - December 2017
   description: | # this will include new lines to allow paragraphs
     RA in AIG Science Group
     • Designed optimal data-driven scheduling strategies; explored simulation-based optimization algorithm for operations scheduling and workflows; model validation with AnyLogic (Java-based)
