@@ -3,26 +3,26 @@ repository: sproogen/modern-resume-theme
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: test@email.com
-phone: 07845248563
+name: Yilun Chen
+title: Machine Learning Researcher
+email: yilunc0127@gmail.com
+phone:
 website: sproogen.github.io/modern-resume-theme
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
-orcid_username: 0000-0000-0000-0000
+twitter_username:
+github_username:
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+facebook_username:
+# flickr_username: jekyll
+instagram_username:
+linkedin_username: yilun-alice-chen
+# xing_username: jekyll
+pinterest_username:
+youtube_username:
+googleplus_username:
+# orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
@@ -35,11 +35,11 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: _test/images/travis.png
-about_content: > # this means to ignore newlines until the next config item.
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports.
+about_profile_image: assets/photo.png
+# about_content: > # this means to ignore newlines until the next config item.
+#   # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+#   #
+#   # You can even add paragraphs by using empty lines like this and add anything else markdown supports.
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -53,8 +53,15 @@ about_content: > # this means to ignore newlines until the next config item.
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: > # this means to ignore newlines until the next config item.
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests. Or you could title it **Skills**
-  and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  Computer Languages: Python, R, SQL, C++, Java, Matlab
+  Big Data Skills: Spark, Hive, AWS, Google Cloud, Azure, Databricks, Docker, Git
+  Relevant Packages: Scikit-learn, XGBoost, PySpark, Tensorflow, PyMC3, Flask, Bokeh
+
+  I'm currently a Research Associate in Optimization and Data Science, with passion in large-scale machine learning models and scalable data-driven decision-making leveraged in cloud computing. My career goal is to combine the state-of-art in modeling with the science and engineering behind scalable machine learning system development and to solve industrial problem with higher-order of efficiency.
+
+  My research interest is majorly in the application development in NLP & Graph Network analysis, and Auto Machine Learning System and Deep Learning Architecture. I also have theoretical knowledge experience of Bayesian Statistics, Multi-Armed Bandit Problems, Optimization and Game Theory. 
+
+  Apart from my research time, I am equipping myself with software development and cloud computing skills. For example, I am taking specialities from Coursera, such as Data Engineering, Big Data on GCP, TensorFlow: Data and Deployment, Advanced Machine Learning with TensorFlow on Google Cloud Platform, Cloud Architecture with Google Cloud and AWS Foundation. I have some hands-on experience on software development using Java, specifically in developing Android APP and Website APP.
 
 # Footer
 footer_show_references: true
