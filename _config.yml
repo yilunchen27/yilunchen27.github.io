@@ -4,7 +4,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: Yilun Chen
-title: Machine Learning Researcher
+title: Machine Learning Researcher & Engineer
 email: yilunc0127@gmail.com
 # phone:
 website: sproogen.github.io/modern-resume-theme
@@ -47,7 +47,7 @@ about_title: About Me
 about_profile_image: assets/photo.png
 about_content: | # this will include new lines to allow paragraphs
 
-      I'm currently a Research Associate in Optimization and Data Science, with passion in large-scale machine learning models and scalable data-driven decision-making leveraged in cloud computing. My career goal is to combine the state-of-art in modeling with the science and engineering behind scalable machine learning system development and to solve industrial problem with higher-order of efficiency.
+      I'm currently a Research Engineer in Optimization and Data Science, with passion in large-scale machine learning models and scalable data-driven decision-making leveraged in cloud computing. My career goal is to combine the state-of-art in modeling with the science and engineering behind scalable machine learning system development and to solve industrial problem with higher-order of efficiency.
 
       My research interest is majorly in the application development in NLP & Graph Network analysis, and Auto Machine Learning System and Deep Learning Architecture. I also have theoretical knowledge experience of Bayesian Statistics, Multi-Armed Bandit Problems, Optimization and Game Theory.
       
