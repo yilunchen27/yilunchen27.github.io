@@ -60,8 +60,8 @@ about_content: | # this will include new lines to allow paragraphs
 #     - <a href="google.com">Links</a>
 #     - Images
 
-# Skill Section
-about_title: Technical Skills
+# Skill or Project Section
+projects_title: Technical Skills
     - Computer Languages: Python, R, SQL, C++, Java, Matlab
     - Big Data Skills: Spark, Hive, AWS, Google Cloud, Azure, Databricks, Docker, Git
     - Relevant Packages: Scikit-learn, XGBoost, PySpark, Tensorflow, PyMC3, Flask, Bokeh
