@@ -50,17 +50,16 @@ about_content: | # this will include new lines to allow paragraphs
       I'm currently a Research Associate in Optimization and Data Science, with passion in large-scale machine learning models and scalable data-driven decision-making leveraged in cloud computing. My career goal is to combine the state-of-art in modeling with the science and engineering behind scalable machine learning system development and to solve industrial problem with higher-order of efficiency.
 
       My research interest is majorly in the application development in NLP & Graph Network analysis, and Auto Machine Learning System and Deep Learning Architecture. I also have theoretical knowledge experience of Bayesian Statistics, Multi-Armed Bandit Problems, Optimization and Game Theory.
-
+      
       Apart from my research time, I am equipping myself with software development and cloud computing skills. For example, I am taking specialities from Coursera, such as Data Engineering, Big Data on GCP, TensorFlow: Data and Deployment, Advanced Machine Learning with TensorFlow on Google Cloud Platform, Cloud Architecture with Google Cloud and AWS Foundation. I have some hands-on experience on software development using Java, specifically in developing Android APP and Website APP.
+
+      Technical Skills:
+        - Computer Languages: Python, R, SQL, C++, Java, Matlab
+        - Big Data Skills: Spark, Hive, AWS, Google Cloud, Azure, Databricks, Docker, Git
+        - Relevant Packages: Scikit-learn, XGBoost, PySpark, Tensorflow, PyMC3, Flask, Bokeh
 #   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 #
 #   You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Computer Languages: Python, R, SQL, C++, Java, Matlab
-    - Big Data Skills: Spark, Hive, AWS, Google Cloud, Azure, Databricks, Docker, Git
-    - Relevant Packages: Scikit-learn, XGBoost, PySpark, Tensorflow, PyMC3, Flask, Bokeh
-
-
-
 
 # Experience Section
 # experience_title: Experience #(Use this to override about experience section title)
