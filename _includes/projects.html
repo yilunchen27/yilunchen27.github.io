@@ -1,6 +1,16 @@
-<div class="container projects-container">
-  <h3>{{ site.projects_title | default: "Projects" }}</h3>
+<!-- <div class="container projects-container">
+  <h3>{{ site.projects_title | default: "Technical Skills" }}</h3>
   {% for project in site.data.projects %}
     {% include {{ project.layout | default: 'left' | append: ".html" }} item=project %}
   {% endfor %}
+</div> -->
+
+
+<div class="container projects-container">
+  <h3>{{ site.projects_title | default: "Technical Skills" }}</h3>
+  <div class="row clearfix">
+    <div class="{{ 'col-xs-12 ' }}{%- if site.about_profile_image -%}col-sm-8 col-md-9 col-print-12{%- endif -%}">
+      {{ site.projects_content | strip | markdownify }}
+    </div>
+  </div>
 </div>

@@ -62,6 +62,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 # Skill or Project Section
 projects_title: Technical Skills
+project_content: | # this will include new lines to allow paragraphs
     - Computer Languages: Python, R, SQL, C++, Java, Matlab
     - Big Data Skills: Spark, Hive, AWS, Google Cloud, Azure, Databricks, Docker, Git
     - Relevant Packages: Scikit-learn, XGBoost, PySpark, Tensorflow, PyMC3, Flask, Bokeh
