@@ -5,6 +5,7 @@
   qualification: M.S. Computer Science
   description: | # this will include new lines to allow paragraphs
     Computer Science Master with Machine Learning Track 
+    
     Lifelong learning with concentration in Machine Learning modeling & System, Algorithm and Software Development & Architecture
 
 - layout: left
@@ -13,7 +14,7 @@
   qualification: M.S. Operations Research
   description: | # this will include new lines to allow paragraphs
     With concentration on Data Science and Big Data Analytics 
-    Completed courses in Machine Learning, Neural Network & Deep Learning, Bayesian Stats, Time Series Analysis, Multivariate Stats, Analysis of Algorithm, Optimization, Stochastic Process, Simulation, Database Design (SQL), Digital Operation Models
+    - Completed coursess in Machine Learning, Neural Network & Deep Learning, Bayesian Stats, Time Series Analysis, Multivariate Stats, Analysis of Algorithm, Optimization, Stochastic Process, Simulation, Database Design (SQL), Digital Operation Models
 
 - layout: left
   name: University of Michigan
@@ -21,9 +22,8 @@
   qualification: B.S. Honor Mathematics, Statistics (Double Majors)
   description: | # this will include new lines to allow paragraphs
     Concentrated on Pure Math and Applied Math with application in statistical models
-
-    Completed course in Real Analysis, Probability Theory, Combinatorial Algebra, Numerical Method, Data Mining, Statistical Inference, Applied Statistics, etc.
-    Completed fundamental courses in Computer Science: Introductory to Programming Language(C++), Programming and Introductory Data Structures(C++), Data Structure and Algorithm(C++)
+    - Completed courses in Real Analysis, Probability Theory, Combinatorial Algebra, Numerical Method, Data Mining, Statistical Inference, Applied Statistics, etc.
+    - Completed fundamental courses in Computer Science: Introductory to Programming Language(C++), Programming and Introductory Data Structures(C++), Data Structure and Algorithm(C++)
 
 - layout: left
   name: Sichuan University
