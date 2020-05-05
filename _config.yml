@@ -68,8 +68,13 @@ about_content: | # this will include new lines to allow paragraphs
 # education_title: Education #(Use this to override about education section title)
 
 # More Section
-# more_title: A Little More About Me #(Use this to override about more section title)
-# more_content: | # this will include new lines to allow paragraphs
+more_title: Publication and Machine Learning Projects
+more_content: | # this will include new lines to allow paragraphs
+        CNN on CFD static flow images
+        AutoML on Graph Neural Network 
+        Knowledge Graph in NLP
+
+
 
 # Footer
 footer_show_references: true
