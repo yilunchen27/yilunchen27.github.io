@@ -54,9 +54,9 @@ about_content: | # this will include new lines to allow paragraphs
       Apart from my research time, I am equipping myself with software development and cloud computing skills. For example, I am taking specialities from Coursera, such as Data Engineering, Big Data on GCP, TensorFlow: Data and Deployment, Advanced Machine Learning with TensorFlow on Google Cloud Platform, Cloud Architecture with Google Cloud and AWS Foundation. I have some hands-on experience on software development using Java, specifically in developing Android APP and Website APP.
 
       Technical Skills:
-        - Computer Languages: Python, R, SQL, C++, Java, Matlab
-        - Big Data Skills: Spark, Hive, AWS, Google Cloud, Azure, Databricks, Docker, Git
-        - Relevant Packages: Scikit-learn, XGBoost, PySpark, Tensorflow, PyMC3, Flask, Bokeh
+        - **Computer Languages:** Python, R, SQL, C++, Java, Matlab
+        - **Big Data Skills:** Spark, Hive, AWS, Google Cloud, Azure, Databricks, Docker, Git
+        - **Relevant Packages:** Scikit-learn, XGBoost, PySpark, Tensorflow, PyMC3, Flask, Bokeh
 #   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 #
 #   You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
@@ -70,11 +70,11 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 more_title: Publication and Machine Learning Projects
 more_content: | # this will include new lines to allow paragraphs
-        CNN on CFD static flow images
+        **CNN on CFD static flow images**
 
-        AutoML on Graph Neural Network 
+        **AutoML on Graph Neural Network**
         
-        Knowledge Graph in NLP
+        **Knowledge Graph in NLP**
 
 
 
