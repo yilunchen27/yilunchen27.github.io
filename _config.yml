@@ -71,8 +71,11 @@ about_content: | # this will include new lines to allow paragraphs
 more_title: Publication and Machine Learning Projects
 more_content: | # this will include new lines to allow paragraphs
         CNN on CFD static flow images
+
         AutoML on Graph Neural Network 
+        
         Knowledge Graph in NLP
+
 
 
 
