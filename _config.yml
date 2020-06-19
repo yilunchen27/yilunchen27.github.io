@@ -83,7 +83,7 @@ more_content: | # this will include new lines to allow paragraphs
 
 # More Section 2
 coursera_title: Other Software Development Certification
-more_content: | # this will include new lines to allow paragraphs
+more_content2: | # this will include new lines to allow paragraphs
         **[AWS Foundation](https://www.coursera.org/account/accomplishments/specialization/KVTHA93XMPAZ)**
 
         **[TensorFlow: Data and Deployment](https://www.coursera.org/account/accomplishments/specialization/HQYYGQ5BDCQQ)**
