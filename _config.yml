@@ -72,8 +72,9 @@ about_content: | # this will include new lines to allow paragraphs
 more_title: Publication and Machine Learning Projects
 more_content: | # this will include new lines to allow paragraphs
         **CNN on CFD static flow images**
+
         [APS](http://meetings.aps.org/Meeting/DFD19/Session/NP05.172)
-        
+
         [IMECE] (https://event.asme.org/IMECE)
 
 # image: assets/cfd.png
