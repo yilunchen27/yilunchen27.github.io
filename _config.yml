@@ -51,7 +51,7 @@ about_content: | # this will include new lines to allow paragraphs
       I'm currently a Research Engineer in Optimization and Data Science, with passion in large-scale machine learning models and scalable data-driven decision-making leveraged in cloud computing. My career goal is to combine the state-of-art in modeling with the science and engineering behind scalable machine learning system development and to solve industrial problem with higher-order of efficiency.
 
       My research interest is majorly in the application development in NLP & Graph Network analysis, and Auto Machine Learning System and Deep Learning Architecture. I also have theoretical knowledge experience of Bayesian Statistics, Multi-Armed Bandit Problems, Optimization and Game Theory.
-      
+
       Apart from my research time, I am equipping myself with software development and cloud computing skills. For example, I am taking specialities from Coursera, such as Data Engineering, Big Data on GCP, TensorFlow: Data and Deployment, Advanced Machine Learning with TensorFlow on Google Cloud Platform, Cloud Architecture with Google Cloud and AWS Foundation. I have some hands-on experience on software development using Java, specifically in developing Android APP and Website APP.
 
       Technical Skills:
@@ -72,9 +72,11 @@ about_content: | # this will include new lines to allow paragraphs
 more_title: Publication and Machine Learning Projects
 more_content: | # this will include new lines to allow paragraphs
         **CNN on CFD static flow images**
-
+        http://meetings.aps.org/Meeting/DFD19/Session/NP05.172
+        https://event.asme.org/IMECE
+profile_image: assets/cfd.png
         **AutoML on Graph Neural Network**
-        
+
         **Knowledge Graph in NLP**
 
 
