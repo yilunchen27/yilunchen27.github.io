@@ -75,7 +75,7 @@ more_content: | # this will include new lines to allow paragraphs
         [APS](http://meetings.aps.org/Meeting/DFD19/Session/NP05.172)
         [IMECE] (https://event.asme.org/IMECE)
 
-image: assets/cfd.png
+# image: assets/cfd.png
 
         **AutoML on Graph Neural Network**
 
