@@ -30,9 +30,9 @@ Researchgate_username:
 
 # Additional icon links
 # additional_links:
-# - title: Link name
-#   icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#   url: Link url (eg. https://google.com)
+- title: Researchgate
+  # icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+  url: https://www.researchgate.net/scientific-contributions/12196343_Yilun_Chen
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -72,9 +72,10 @@ about_content: | # this will include new lines to allow paragraphs
 more_title: Publication and Machine Learning Projects
 more_content: | # this will include new lines to allow paragraphs
         **CNN on CFD static flow images**
-url: http://meetings.aps.org/Meeting/DFD19/Session/NP05.172
-url: https://event.asme.org/IMECE
-profile_image: assets/cfd.png
+        [APS](http://meetings.aps.org/Meeting/DFD19/Session/NP05.172)
+        [IMECE] (https://event.asme.org/IMECE)
+
+image: assets/cfd.png
 
         **AutoML on Graph Neural Network**
 
