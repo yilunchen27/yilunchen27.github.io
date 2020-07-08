@@ -1,6 +1,6 @@
 # Education Template
 - layout: left
-  name: Georgia institute of Technology
+  name: Georgia Institute of Technology
   dates: 2018 - 2020
   qualification: M.S. Computer Science
   description: | # this will include new lines to allow paragraphs
@@ -17,7 +17,7 @@
     - Completed coursess in Machine Learning, Neural Network & Deep Learning, Bayesian Stats, Time Series Analysis, Multivariate Stats, Analysis of Algorithm, Optimization, Stochastic Process, Simulation, Database Design (SQL), Digital Operation Models
 
 - layout: left
-  name: University of Michigan
+  name: University of Michigan, Ann Arbor
   dates: 2014 - 2016
   qualification: B.S. Honor Mathematics, Statistics (Double Majors)
   description: | # this will include new lines to allow paragraphs
