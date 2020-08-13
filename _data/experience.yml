@@ -1,8 +1,15 @@
 # Experience template
 - layout: left
+  company: Facebook
+  job_title: Network Quantitative Engineer
+  dates: August 2018 - Present
+  description: | # this will include new lines to allow paragraphs
+    Quantitative Engineer in Facebook, Infrastructure (Menlo Park, CA)
+
+- layout: left
   company: Air Liquide
   job_title: Research Associate in Optimization & Data Science
-  dates: March 2018 - present
+  dates: March 2018 - August 2020
   description: | # this will include new lines to allow paragraphs
     RA in Optimization & Computational Data Science Group (Air Liquide USA R&D Center)
     - 2020 project -- Pricing Strategy & Recommendation for Air Liquide Canada (Potentially Europe)
